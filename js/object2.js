@@ -31,5 +31,5 @@ for (let key of keys) {
 
     if(key === hasPool && hotel[key]) {
     console.log("Hotel has a pool");
-    }
+    } 
 }
